@@ -1,13 +1,12 @@
 import React from 'react';
-import { Button } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 
-function Mainer () {
+export default function Mainer () {
     return (
-        <div>
+        <Container>
             <h1>Aayush Pal</h1>
-            <Button>Press here</Button>
-        </div>
+            <h3>Brainstormer, Engineer</h3>
+        </Container>
     )
 }
 
-export default Mainer();

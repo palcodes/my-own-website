@@ -1,11 +1,12 @@
 import React from 'react';
 import Mainer from './components/Mainer';
+import Avatar from './components/Avatar';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <Avatar />
       <Mainer />
     </div>
   );
