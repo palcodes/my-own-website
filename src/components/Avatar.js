@@ -5,6 +5,7 @@ const Image = styled.img`
     border-radius: 50%;
     block-size: 200px;
     padding: 25px;
+    /* position: absolute; */
 `;
 
 export default function Avatar() { 
