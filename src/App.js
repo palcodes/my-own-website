@@ -1,9 +1,7 @@
 import React from 'react';
-import Avatar from './components/Avatar';
 import About from './screens/About';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import { Container, Row, Col } from 'react-bootstrap';
-import './App.css';
+import { BrowserRouter as Router } from 'react-router-dom';
+import { Container, Row,} from 'react-bootstrap';
 
 function App() {
   return (
