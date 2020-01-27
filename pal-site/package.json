@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-julia",
+  "name": "pal_codes",
   "private": true,
   "description": "A minimal blog template built with Gatsby",
   "version": "0.1.0",
-  "author": "Niklas Metje <hi@niklasmtj.de>",
+  "author": "Aayush Pal",
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "@emotion/styled": "^10.0.11",
