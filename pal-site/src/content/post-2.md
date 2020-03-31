@@ -1,45 +1,9 @@
 ---
-title: "Second Title"
-date: "2019-03-18"
-draft: true
-path: "/blog/second-title"
+title: "Welcome to pal-blogs"
+date: "2020-03-12"
+draft: false
+path: "/blog/example-title"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-# H1
-
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-Paragraph
-
----
-
-> This is a quote
-
----
-
-[Example.com](example.com)
-
----
-
-`const foo = bar`
-
-```javascript
-const foo = bar
-console.log(foo);
-```
-
----
-
-| Hello | World |
-|-------|------ |
-| Foo   | Bar   |
+Hey everyone! This is pal-blogs from your very own Pal.
+This website is just a collection of my thoughts, opinions on various topics around the globe, different industries. You can consider this as a thought dump for me, where I put everything that I ever think, feel like journaling or even speak just in the form of a write-up. Maybe someday, I will feel like going back and reading them.
