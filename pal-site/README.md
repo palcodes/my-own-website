@@ -1,8 +1,6 @@
-This website is using a Gatsby starter -> Julia. You can find a quick start guide in the following lines. There are the most important files explained.
+## 🚀 Overview
 
-## 🚀 Quick start
-
-This website is built using Gatsby and based on the Jula Starter pack. 
+This website is built using Gatsby and based on the Jula Starter pack.
 
 1.  **Create a Gatsby site.**
 
@@ -13,7 +11,12 @@ This website is built using Gatsby and based on the Jula Starter pack.
     gatsby new julia-starter https://github.com/niklasmtj/gatsby-starter-julia
     ```
 
-1.  **Open the source code and start editing!**
+2.  **Open the source code and start editing!**
+
+     ```sh
+     # run the gatsby project within the src folder.
+     gatsby develop
+     ```
 
     Your site is now running at `http://localhost:8000`!
 
