@@ -5,9 +5,10 @@ code {
 body {
   margin: 0;
   /* font-family: "Nunito", "Avenir", "Helvetica", "sans-serif"; */
-  font-family: 'Lato', sans-serif;
+  /* font-family: 'Lato', sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale; */
+  font-family: 'Aileron-Bold';
   background-color: #121317;
 }
 article,
@@ -622,4 +623,9 @@ pre tt:after {
   html {
     font-size: 100%;
   }
+}
+
+@font-face {
+  font-family: "Aileron-Bold";
+  src: url("../fonts/Aileron-Bold.otf");
 }
