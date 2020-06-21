@@ -16,16 +16,16 @@ const ArticleDate = styled.h5`
   display: inline;
   color: #606060;
 `
+// background-image: linear-gradient(
+//   -50deg,
+//   rgba(255, 250, 150, 0.15),
+//   rgba(255, 250, 150, 0.8) 100%,
+//   rgba(255, 250, 150, 0.25)
+// );
 
 const MarkerHeader = styled.h3`
-  display: inline;
-  border-radius: 1em 0 1em 0;
-  background-image: linear-gradient(
-    -100deg,
-    rgba(255, 250, 150, 0.15),
-    rgba(255, 250, 150, 0.8) 100%,
-    rgba(255, 250, 150, 0.25)
-  );
+  color: #bb6c94;
+  padding-top: 30px;
 `
 
 const ReadingTime = styled.h5`
@@ -33,12 +33,17 @@ const ReadingTime = styled.h5`
   color: #606060;
 `
 
+const PageHead = styled.h1`
+  font-size: 5rem;
+  padding-bottom: 10px;
+`
+
 const IndexPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Blog" />
       <Content>
-        <h1>Blog</h1>
+        <PageHead>Blogs</PageHead>
         {data.allMarkdownRemark.edges
           .filter(({ node }) => {
             const rawDate = node.frontmatter.rawDate
@@ -54,7 +59,7 @@ const IndexPage = ({ data }) => {
                   color: inherit;
                 `}
               >
-                <MarkerHeader>{node.frontmatter.title} </MarkerHeader>
+                <MarkerHeader>{node.frontmatter.title}</MarkerHeader>
                 <div>
                   <ArticleDate>{node.frontmatter.date}</ArticleDate>
                   <ReadingTime> - {node.fields.readingTime.text}</ReadingTime>
