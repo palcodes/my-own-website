@@ -18,11 +18,12 @@ const OuterContainer = styled.div`
 const Description = styled.p`
   padding: 0;
   margin-bottom: 1rem;
+  margin-top: 5px;
   font-size: 1.4rem;
 `
 
 const NameHeader = styled.h1`
-  font-size: 3.5rem;
+  font-size: 4.5rem;
   margin-bottom: 0;
 `
 

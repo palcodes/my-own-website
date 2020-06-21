@@ -5,10 +5,11 @@ code {
 body {
   margin: 0;
   /* font-family: "Nunito", "Avenir", "Helvetica", "sans-serif"; */
-  font-family: 'Lato', sans-serif;
+  /* font-family: 'Lato', sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: #f0f0f0;
+  -moz-osx-font-smoothing: grayscale; */
+  font-family: 'Aileron-Bold';
+  background-color: #121317;
 }
 article,
 aside,
@@ -43,12 +44,13 @@ template {
 }
 a {
   font-style: normal;
-  color: hsla(0, 0%, 0%, 0.8);
+  color: thistle;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
 a:hover {
-  outline-width: 0;
+  outline-width: 0; 
+  color: thistle;
 }
 abbr[title] {
   border-bottom: none;
@@ -202,7 +204,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: hsla(0, 0%, 0%, 0.8);
+  color: #96aae2cc;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -621,4 +623,9 @@ pre tt:after {
   html {
     font-size: 100%;
   }
+}
+
+@font-face {
+  font-family: "Aileron-Bold";
+  src: url("../fonts/Aileron-Bold.otf");
 }
