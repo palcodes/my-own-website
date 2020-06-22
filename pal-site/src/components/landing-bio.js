@@ -20,6 +20,8 @@ const Description = styled.p`
   margin-bottom: 1rem;
   margin-top: 5px;
   font-size: 1.4rem;
+  color: rgb(187, 108, 148);
+  font-family: 'Consolas';
 `
 
 const NameHeader = styled.h1`

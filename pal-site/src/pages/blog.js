@@ -16,12 +16,6 @@ const ArticleDate = styled.h5`
   display: inline;
   color: #606060;
 `
-// background-image: linear-gradient(
-//   -50deg,
-//   rgba(255, 250, 150, 0.15),
-//   rgba(255, 250, 150, 0.8) 100%,
-//   rgba(255, 250, 150, 0.25)
-// );
 
 const MarkerHeader = styled.h3`
   color: #bb6c94;
