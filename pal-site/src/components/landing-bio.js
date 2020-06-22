@@ -21,7 +21,7 @@ const Description = styled.p`
   margin-top: 5px;
   font-size: 1.4rem;
   color: rgb(187, 108, 148);
-  font-family: 'Consolas';
+  font-family: 'Fira Mono', monospace;
 `
 
 const NameHeader = styled.h1`

@@ -629,3 +629,8 @@ pre tt:after {
   font-family: "Aileron-Bold";
   src: url("../fonts/Aileron-Bold.otf");
 }
+
+@font-face {
+  font-family: "Fira Mono";
+  src: url("../fonts/FiraMono-Bold.ttf")
+}
