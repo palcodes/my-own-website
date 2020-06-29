@@ -12,6 +12,6 @@ Learning is not a straight path, it's a zig-zag line of wins and momentary drops
 Now now, my aim isn't to demotivate or scare away the reader, but to almost provide a realistic view of what having a life full of learning could be. <br /><br />
 I am 20, I have considerable amount of learning to look forward to, but I am pretty sure I'll be learning along the way alright. And that's where these blogs play a role of staying on for a longer time then I can actually manage to remember so much stuff. <br /><br />
 Looks like I completed my resolution of getting a blog site up before June, well now this is where it get's interesting. This isn't a one time thing, I don't want this blog to be lurking in some corner of the internet, but still I won't over-promise, I will be updating this site with blogs to read whenever I have something nice and fresh ready and I think is clean and easy enough for people to understand. <br /><br />
-So look forward to some exciting stuff to read when I do publish!
+So look forward to some exciting stuff to read when I do publish.<br /> The next one is going to be a bit more technical!
 <br /><br />
 ![Alt Text](https://media.giphy.com/media/bznNJlqAi4pBC/giphy.gif)
