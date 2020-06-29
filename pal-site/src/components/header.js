@@ -79,7 +79,7 @@ const Header = () => (
       <p>
         <HomeLink to="/">Home</HomeLink>
         <NavLink to="/blog">Blog</NavLink>
-        <GitHubLink href="https://github.com/pal-codes">
+        <GitHubLink href="https://github.com/palcodes">
           GitHub
         </GitHubLink>
       </p>
