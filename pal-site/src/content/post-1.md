@@ -1,14 +1,13 @@
 ---
 title: "About myself"
-date: "2020-03-12"
+date: "2020-06-02"
 draft: false
-path: "/blog/example-title"
+path: "/blog/aboutmyself"
 ---
 
-Hi, I am Aayush Pal, a Mobile Developer, Tech enthusiast. I build applications for android & iOS based on Flutter.
-I am currently a 2nd year Computer Engineering student, trying to find the next project to be a part of. 
+Hello there! I am Aayush Pal, a Software Engineer📱. <br />
+I work on a variety of technologies, most of the time I spend building applications for android & iOS using Flutter. Right now, I am building mobile apps [@MakeStories](https://makestories.io/)<br />
+I am currently a 3rd year CS student, trying to build my next product.
 
-My experience revolves in a major portion around Flutter & cloud services like MongoDB and Firebase.
-
-I am fairly active on social media, go ahead and check me out haha, and I am more than happy to connect. 
-This website is a culmination of everything thought cycle I bump, a journal of sorts. 
+I am fairly active on social media, I am more than happy to connect. <br />
+This website/blog is a collection of thoughts, opinions I have, a journal of sorts.📑 <br /> So read away!
