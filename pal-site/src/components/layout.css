@@ -8,7 +8,8 @@ body {
   /* font-family: 'Lato', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; */
-  font-family: 'Aileron-Bold';
+  /* font-family: 'Aileron-Bold'; */
+  font-family: 'Work Sans', sans-serif;
   background-color: #121317;
 }
 article,
@@ -626,8 +627,8 @@ pre tt:after {
 }
 
 @font-face {
-  font-family: "Aileron-Bold";
-  src: url("../fonts/Aileron-Bold.otf");
+  font-family: 'Work Sans', sans-serif;
+  src: url("../fonts/WorkSans-VariableFont_wght.ttf");
 }
 
 @font-face {

@@ -25,11 +25,6 @@ const MarkdownContent = styled.div`
   a {
     text-decoration: none;
     position: relative;
-
-    background-image: linear-gradient(
-      rgba(255, 250, 150, 0.8),
-      rgba(255, 250, 150, 0.8)
-    );
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
     background-position: 0 88%;
