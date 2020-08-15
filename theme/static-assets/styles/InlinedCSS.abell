@@ -1,12 +1,15 @@
 <AbellComponent>
 <style inlined>
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;700;800&display=swap');
+
   body {
     --background-primary: #fff;
     --font-color-primary: #333;
     --elevation-background: #fff;
     --code-background: #f3f3f3;
     --link-color: #006EB8;
-    --font-family-primary: 'Noto Sans KR', sans-serif;
+    --font-family-primary: 'Manrope', sans-serif;
   }
 
   body.dark {
