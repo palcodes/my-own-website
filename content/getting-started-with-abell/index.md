@@ -1,38 +1,14 @@
 # {{ Abell.meta.title }}
+### {{ Abell.meta.$createdAt.toDateString() }}
 
-Abell is a static site generator that lets you create blog in just few clicks without writing any code. 
-
-Abell can be customized without any knowledge of JavaScript frameworks. You just have to edit HTML, CSS, and JavaScript to make changes in the blog.
-
-## Create your blog
-
-Create your blog in one button click!!
-
-<a 
-  style="border-radius: 6px;font-size: 11pt; padding:10px 20px;background-color: #353D3E; color: #ffffff;" 
-  href="https://app.netlify.com/start/deploy?repository=https://github.com/abelljs/abell-starter-minima"> 
-  Create and Deploy Blog to Netlify <img style="position: relative; top: 5px;left: 3px;" alt="netlify logo" width="20" src="./assets/netlify.svg">
-</a>
-
-This will create a new project in your GitHub and will deploy it to Netlify. Later you can make changes in the blog by editing files in your new GitHub project.
-
-*or*
-
-you can create project locally with,
-```sh
-npx create-abell-app my-cool-blog
-```
-
-## Writing blog
-
-After deployment, a repository will be created on your GitHub account. You can edit files in `content` directory to edit blog and create a new folder with `index.md` to create new blog.
-
-## Documentation
-
-Full documentation at [https://abelljs.org](https://abelljs.org)
-
-## GitHub
-Source code of this template is available at [GitHub](https://github.com/abelljs/abell-starter-minima).
-
-Do drop ⭐️ on [this starter template](https://github.com/abelljs/abell-starter-minima) and the [Abell Repository](https://github.com/abelljs/abell)
+This is my blog #1. <br />
+This blog is a collection of my writings, thoughts, opinions. I believe that knowledege grows by sharing, so that's what I am looking forward to. <br /> <br />
+On 1st Jan this year, I took a resolve to have a website by the end of June, where I can write about stuff in greater lengths than the twitter's 280 character limit.😅 And I believe writing is a good way of expressing oneself. Since I was a kid, I was always fantasized about sitting a cafe and writing a book. So not a book, but this seems like a good start. The beauty about blogging is that everyone can have one, and every blog out there will still be very different.<br /><br />
+Learning is not a straight path, it's a zig-zag line of wins and momentary drops coupled with imposter syndrome, 😉.<br />
+Now now, my aim isn't to demotivate or scare away the reader, but to almost provide a realistic view of what having a life full of learning could be. <br /><br />
+I am 20, I have considerable amount of learning to look forward to, but I am pretty sure I'll be learning along the way alright. And that's where these blogs play a role of staying on for a longer time then I can actually manage to remember so much stuff. <br /><br />
+Looks like I completed my resolution of getting a blog site up before June, well now this is where it get's interesting. This isn't a one time thing, I don't want this blog to be lurking in some corner of the internet, but still I won't over-promise, I will be updating this site with blogs to read whenever I have something nice and fresh ready and I think is clean and easy enough for people to understand. <br /><br />
+So look forward to some exciting stuff to read when I do publish.<br /> The next one is going to be a bit more technical!
+<br /><br />
+![Alt Text](https://media.giphy.com/media/bznNJlqAi4pBC/giphy.gif)
 
