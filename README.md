@@ -1,6 +1,14 @@
-# Abell Starter Template
+# https://pal.codes
 
 ![Screenshot of my website](./mysite.png)
+
+## Overview
+
+- pal.codes is now using Abell, moving on from Gatsby. I have been considering this shift for a while now, wanting to move to a cleaner way of blogging. And Abell is very much near to what I require. 
+- One other reason that the change was so quick, is this tweet. [twitter.com/tesseralis/tweet](https://twitter.com/tesseralis/status/1293649007739191296?s=20)
+- Right now the website is using a template made by Abell Team. Moving forward I might make some small updates.
+- If you would like to recreate this for yourself, you can continue clone this website and following part will tell you how.
+
 
 ### To create an Abell project locally with the template that I am using
 
