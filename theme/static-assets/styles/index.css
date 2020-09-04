@@ -33,7 +33,7 @@ header > h1 {
   color: var(--font-color-primary);
 }
 
-@media (max-width: 880px) {
+@media (max-width: 1280px) {
   header {
     padding: 30px 20px 20px 20px;
   }
@@ -45,16 +45,3 @@ header > h1 {
     display: block;
   }
 }
-
-/* @media (min-width: 1920px) {
-  header {
-    padding: 30px 400px 100px 400px;
-  }
-  .article-container {
-    padding: 30px 400px 100px 400px;
-  }
-  .article-container > article > a {
-    padding: 15px 20px;
-    display: block;
-  }
-} */
