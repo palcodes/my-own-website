@@ -21,7 +21,7 @@
     <DarkModeToggle props={$root} />
     <h1>Aayush Pal</h1>
     <div class="header-bio">
-      Hey there, welcome to my corner of the internet. <br/>You can find me refered to as <b>' {{ globalMeta.name }} '</b> on most places on the internet. <a href="https://twitter.com/{{ globalMeta.twitter }}">Twitter </a> | <a href="https://github.com/palcodes">GitHub</a>
+      Hey there, welcome to my corner of the internet. <br/>You can find me refered to as <b>' {{ globalMeta.name }} '</b> on most places on the internet. <a href="https://twitter.com/{{ globalMeta.twitter }}">Twitter </a> | <a href="https://github.com/palcodes">GitHub</a> | <a href="https://www.notion.so/palcodes/Aayush-Pal-c638a376b3b94125a776c7c27b915414">Resume</a>
     </div>
   </header>
   <main>
