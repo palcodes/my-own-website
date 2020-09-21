@@ -1,5 +1,5 @@
 <AbellComponent>
-<style inlined>
+<style inlined global>
 
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;700;800&display=swap');
 
