@@ -8,7 +8,7 @@
     --font-color-primary: #333;
     --elevation-background: #fff;
     --code-background: #f3f3f3;
-    --link-color: #006EB8;
+    --link-color: #5f9ea0;
     --font-family-primary: 'Manrope', sans-serif;
   }
 
@@ -17,7 +17,7 @@
     --font-color-primary: #ccc; 
     --elevation-background: #1D1D1D;
     --code-background: #222;
-    --link-color: #09f;
+    --link-color: #5f9ea0;
   }
 
   html, body {

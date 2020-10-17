@@ -4,6 +4,7 @@ header {
   width: 100%;
   padding: 100px 350px 80px 350px;
 }
+
 header > h1 {
   margin: 10px 0px;
   font-size: 50pt;
