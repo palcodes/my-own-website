@@ -47,8 +47,8 @@
     color: var(--link-color);
   }
 
-  .shadow {
+  /* .shadow {
     box-shadow: 0 5px 20px -4px #0005;
-  }
+  } */
 </style>
 </AbellComponent>

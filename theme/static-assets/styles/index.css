@@ -2,34 +2,41 @@
 
 header {
   width: 100%;
-  padding: 100px 350px 100px 350px;
+  padding: 100px 350px 80px 350px;
 }
 header > h1 {
   margin: 10px 0px;
   font-size: 50pt;
+  color: cadetblue;
+  font-weight: 800;
+}
+
+.article-title {
+  font-size: 25pt;
+  color: cadetblue;
+  font-weight: 600;
+  margin-bottom: 3px;
 }
 
 .article-date {
-  font-size: 10pt;
+  font-size: 14pt;
   color: var(--font-color-primary);
   padding: 0px 3px 2px 1px;
 }
 .article-container {
-  padding: 30px 350px 100px 350px;
+  padding: 10px 350px 100px 350px;
 }
 .article-container > article {
-  background-color: var(--elevation-background);
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 .article-container > article > a {
-  padding: 30px;
   display: block;
 }
 .article-container > article h2 {
   margin: 9px 0px 0px 0px;
 }
 .article-container .article-description {
-  margin: 3px 0px;
+  margin: 8px 0px;
   color: var(--font-color-primary);
 }
 
@@ -38,7 +45,7 @@ header > h1 {
     padding: 30px 20px 20px 20px;
   }
   .article-container {
-    padding: 20px 20px 20px 20px;
+    padding: 30px 20px 20px 0px;
   }
   .article-container > article > a {
     padding: 15px 20px;
