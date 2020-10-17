@@ -2,7 +2,6 @@
   const { globalMeta, meta, importContent, $root } = Abell;
 
   const DarkModeToggle = require('../components/DarkModeToggle.abell');
-  const TwitterShareButton = require('../components/TwitterShareButton.abell');
   const Footer = require('../components/Footer.abell');
   const InlinedCSS = require('../static-assets/styles/InlinedCSS.abell');
 }}
@@ -31,9 +30,6 @@
       </div>
     </div>
     <hr/><br/><br/>
-    <TwitterShareButton 
-      props={link: `${globalMeta.domain}/${meta.$path}/`, $root}
-    />
   </main>
   <Footer/>
 
