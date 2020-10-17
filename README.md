@@ -1,6 +1,6 @@
 # https://pal.codes
 
-![Screenshot of my website](./mysite.png)
+![Screenshot of my website](./websitescreenshot.png)
 
 ## Overview
 
