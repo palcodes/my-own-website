@@ -1,4 +1,7 @@
 /* CSS Variables defined in ./inlined/InlinedCSS.abell */
+body {
+  line-height: 1.8;
+}
 
 header {
   width: 100%;

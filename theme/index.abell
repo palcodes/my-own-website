@@ -21,7 +21,9 @@
     <DarkModeToggle props={$root} />
     <h1>Aayush Pal</h1>
     <div class="header-bio">
-      Hey there, welcome to my corner of the internet. <br/>You can find me refered to as <b>' {{ globalMeta.name }} '</b> on most places on the internet. <a href="https://twitter.com/{{ globalMeta.twitter }}">Twitter </a> | <a href="https://github.com/palcodes">GitHub</a> | <a href="https://www.notion.so/palcodes/Aayush-Pal-c638a376b3b94125a776c7c27b915414">Resume</a>
+      Hey there! welcome to my corner of the internet. <br/>You can find me as  <b>' {{ globalMeta.name }} '</b> on most places. 🤗<a href="https://twitter.com/{{ globalMeta.twitter }}">  Twitter </a> | <a href="https://github.com/palcodes">GitHub</a> | <a href="https://www.instagram.com/palcodes/">Instagram</a> <br>
+      A mere CS student with a not so mere love for computers.💻 I like to work with all kinds of tech, mostly mobile.<br />
+      This website is a collection of thoughts, opinions I have on things that I see around the world, a journal of sorts. 📑
     </div>
   </header>
   <main>
