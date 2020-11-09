@@ -1,9 +1,6 @@
 # {{ Abell.meta.title }}
 ### {{ Abell.meta.$createdAt.toDateString() }}
 
-Created: Oct 3, 2020 3:12 PM
-Status: In progress
-
 Hi there fellow reader, good to have you here. 🤗
 Though the header seems like it, I am not going to focus on the HOW of contributing to opensource, because the tools and resources out there do a better job at that.
 **What I wanna share is my personal opinion on the WHY**?
