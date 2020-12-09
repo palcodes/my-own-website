@@ -24,7 +24,7 @@ There's also the possibility of you typing up a cold email, text, or a video!? T
 
 Now coming to interview part, different companies have different ways of conducting an interview. Both the companies I applied to were startups, so their process was pretty similar on some level.
 
-But let's say you get a task to work on from your interview, make sure you approach it in a holistic way. Most often than not, companies don't look for you (if this is your first role) to be completing the task. It's more about what and how you do it. Because from my understanding most of the things you do at a company is
+But let's say you get a task to work on from your interview, make sure you approach it in a holistic way. Most often than not, companies don't look for you (if this is your first role) to be completing the task. It's more about what and how you do it.
 
 ### What you should be looking for?
 
