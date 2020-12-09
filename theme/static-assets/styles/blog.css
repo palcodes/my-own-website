@@ -1,6 +1,6 @@
 main {
   padding: 100px 500px;
-  line-height: 30px;
+  line-height: 25px;
 }
 
 p {
@@ -10,13 +10,18 @@ p {
 
 div.blog-container {
   padding-top: 30px;
+  color: var(--font-color-body)
+}
+
+h3{
+  color: var(--font-color-date)
 }
 
 div.blog-container h1 {
   font-size: 30pt;
   font-weight: bold;
   line-height: 40px;
-  color: cadetblue;
+  color: var(--font-color-primary);
   /* margin-bottom: 50px; */
 }
 

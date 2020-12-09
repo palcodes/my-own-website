@@ -1,6 +1,6 @@
 /* CSS Variables defined in ./inlined/InlinedCSS.abell */
 body {
-  line-height: 1.8;
+  line-height: 1.6;
 }
 
 header {
@@ -8,24 +8,28 @@ header {
   padding: 100px 350px 80px 350px;
 }
 
+div.header-bio{
+  color: var(--font-color-body);
+}
+
 header > h1 {
   margin: 10px 0px;
   font-size: 50pt;
-  color: cadetblue;
-  font-weight: 800;
+  color: var(--font-color-primary);
+  font-weight: 300;
 }
 
 .article-title {
   font-size: 25pt;
-  color: cadetblue;
+  color: var(--font-color-primary);
   font-weight: 600;
   margin-bottom: 3px;
 }
 
 .article-date {
   font-size: 14pt;
-  color: var(--font-color-primary);
-  padding: 0px 3px 2px 1px;
+  color: var(--font-color-date);
+  padding: 0px 0px 2px 1px;
 }
 .article-container {
   padding: 10px 350px 100px 350px;
@@ -41,7 +45,7 @@ header > h1 {
 }
 .article-container .article-description {
   margin: 8px 0px;
-  color: var(--font-color-primary);
+  color: var(--font-color-body);
 }
 
 @media (max-width: 1280px) {
