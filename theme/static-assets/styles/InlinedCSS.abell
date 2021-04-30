@@ -1,6 +1,6 @@
 <AbellComponent>
   <style inlined global>
-    @import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap");
+    @import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap");
 
     body {
       --background-primary: #fff;
@@ -10,7 +10,7 @@
       --elevation-background: #fff;
       --code-background: #f3f3f3;
       --link-color: #7d95c5;
-      --font-family-primary: "Mulish", sans-serif;
+      --font-family-primary: "Libre Baskerville", serif;
     }
 
     body.dark {
