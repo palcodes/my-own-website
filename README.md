@@ -1,3 +1,4 @@
+> This is down and blogs archived until I figure out a new system to write and pretty sure a revamp too.
 # https://pal.codes
 
 ![Screenshot of my website](./websitescreenshot.png)
